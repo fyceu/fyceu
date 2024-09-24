@@ -7,13 +7,12 @@
 ## 🛠️ Technologies & Tools 
 - **Languages**: Python, Bash, PowerShell 
 - **Cyber Tools**: Wireshark, Splunk
-- **Version Control**: Git & GitHub 
 - **Operating Systems**: Windows, Windows Server, Linux, macOS
  - **Cloud**: AWS, Azure (basic knowledge)
-
-## My Certifications
-|Obtained        |In Progress                    |One Day                      |
+## 📜 **My** Certifications
+|Obtained        |In Progress                               |One Day                      |
 |----------------|-------------------------------|-----------------------------|
-|Security+, CySA+, BTLO | Splunk Core            | Splunk Power User, CCD, CASP+, **CISSP**            |
+|Security+, CySA+<br>BTLO | Splunk Core            | Splunk Power User, CCD, <br>CASP+, **CISSP**            |
 ## 📫 Let's Connect
 - LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/fasisika/) 
+- Email: contact@fasisika.com
