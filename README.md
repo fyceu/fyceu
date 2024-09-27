@@ -1,6 +1,6 @@
 # [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2000&pause=400&color=18F721&width=435&lines=%24+whoami+;%24+fasi+sika;%24+cybersecurity+enthusiast;%24+aspiring+cybersecurity+researcher;%24+currently%3A+succumbing+to+the+void)](https://git.io/typing-svg)
 ## 🔒 About Me
-- 💻 **Cybersecurity Enthusiast** with a focus on Security Operations, Threat Hunting, Vulnerability Management, and Incident Response.
+- 💻 **Cybersecurity Enthusiast** with an interest in Security Operations, Threat Hunting, Vulnerability Management, and Incident Response.
 - 🎓 Graduated from Old Dominion University with a Bachelor of Science in Cybersecurity
 - 🌐 Based in the Washington, D.C. area, with a growing interest in supporting private and public sector cybersecurity efforts.
 
@@ -11,7 +11,7 @@
 	- [30 Day SOC Challenge ](https://github.com/fyceu/30-Day-SOC-Analyst-Challenge)
 - Writeups:
 	- [ParrotPost](https://github.com/fyceu/ParrotPost-Phishing-Analysis) - Phishing Analysis
-	- Tempest - 
+	- Tempest
 ## 🛠️ Technologies & Tools 
 - **Languages**: C++, BASH, PowerShell, HTML
 - **SIEM**: Splunk, Elastic, Wazuh, Azure Sentinel 
