@@ -1,14 +1,31 @@
 # 👋 Hi, I'm Fasi! 
 
 👨‍💻 Help Desk Specialist documenting my journey in Cybersecurity <br>
-🏫 Studied Cybersecurity with a minor in Computer Science <br> 
+🏫 Studied Cybersecurity with a minor in Computer Science <br>
+📓 Lifetime learner and tech enthusiast <br>
 
-## Projects
+## 🖥️ Cybersecurity Projects
 
-[Vulnerability Management Implementation](https://github.com/fyceu/Vulnerability-Management-Program-Implementation) <br>
-[Threat Hunting: Unauthorized TOR](https://github.com/fyceu/Threat-Hunting-Unauthorized-TOR) <br>
-[Phishing Analysis: Parrot Post](https://github.com/fyceu/ParrotPost-Phishing-Analysis) <br>
-[SOC Automation Lab](https://github.com/fyceu/SOC-Automation-Lab) <br>
+**Vulnerability Management**: <br>
+↳ [Vulnerability Management Implementation](https://github.com/fyceu/Vulnerability-Management-Program-Implementation) <br>
+
+**Threat Hunting**: <br>
+↳ [Threat Hunting: Unauthorized TOR](https://github.com/fyceu/Threat-Hunting-Unauthorized-TOR) <br>
+
+**Security Operations & Incident Response**: <br>
+↳ [SOC Automation Lab](https://github.com/fyceu/SOC-Automation-Lab) <br>
+↳ [Phishing Analysis: Parrot Post](https://github.com/fyceu/ParrotPost-Phishing-Analysis) <br>
 
 
-## Certifications
+## 📜 Certifications
+<img width="125" height="125" alt="security+" src="https://github.com/user-attachments/assets/991dbd0b-8e03-4629-9427-2f5055c32ce4" />
+<img width="125" height="125" alt="security+" src="https://github.com/user-attachments/assets/a80893d6-3d21-4b8f-8813-19e9e5ca7895" />
+<img width="125" height="125" alt="security+" src="https://github.com/user-attachments/assets/82ef4584-99cd-48f3-b63b-ad5ea60cab92" />
+<br>
+- CompTIA Security+ <br>
+- Security Blue Team Level 1 <br>
+- CompTIA CySA+ <br>
+
+
+## 📬 Let's Connect
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/fasisika/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:contact@fasisika.com) 
