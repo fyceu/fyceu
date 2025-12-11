@@ -13,6 +13,7 @@
 ↳ [Threat Hunting: Unauthorized TOR](https://github.com/fyceu/Threat-Hunting-Unauthorized-TOR) <br>
 
 **Security Operations & Incident Response**: <br>
+↳ [Linux Privilege Escalation & Data Exfiltration](https://github.com/fyceu/Linux-Privilege-Escalation) <br>
 ↳ [SOC Automation Lab](https://github.com/fyceu/SOC-Automation-Lab) <br>
 ↳ [Phishing Analysis: Parrot Post](https://github.com/fyceu/ParrotPost-Phishing-Analysis) <br>
 
