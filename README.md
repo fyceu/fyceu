@@ -4,18 +4,18 @@
 🏫 Studied Cybersecurity with a minor in Computer Science <br>
 📓 Lifetime learner and tech enthusiast <br>
 
-## 🖥️ Cybersecurity Projects
+## 🖥️  Cybersecurity Projects
 
-**Vulnerability Management**: <br>
-↳ [Vulnerability Management Program Implementation](https://github.com/fyceu/Vulnerability-Management-Program-Implementation) <br>
+🚨 **Security Operations & Incident Response**: <br>
+ ↳ [Linux Privilege Escalation & Data Exfiltration](https://github.com/fyceu/Linux-Privilege-Escalation) <br>
+ ↳ [SOC Automation Lab](https://github.com/fyceu/SOC-Automation-Lab) <br>
+ ↳ [Phishing Analysis: Parrot Post](https://github.com/fyceu/ParrotPost-Phishing-Analysis) <br>
 
-**Threat Hunting**: <br>
-↳ [Threat Hunting: Unauthorized TOR](https://github.com/fyceu/Threat-Hunting-Unauthorized-TOR) <br>
+🛠️ **Vulnerability Management**: <br>
+ ↳ [Vulnerability Management Program Implementation](https://github.com/fyceu/Vulnerability-Management-Program-Implementation) <br>
 
-**Security Operations & Incident Response**: <br>
-↳ [Linux Privilege Escalation & Data Exfiltration](https://github.com/fyceu/Linux-Privilege-Escalation) <br>
-↳ [SOC Automation Lab](https://github.com/fyceu/SOC-Automation-Lab) <br>
-↳ [Phishing Analysis: Parrot Post](https://github.com/fyceu/ParrotPost-Phishing-Analysis) <br>
+🕵️‍♂️ **Threat Hunting**: <br>
+ ↳ [Threat Hunting: Unauthorized TOR](https://github.com/fyceu/Threat-Hunting-Unauthorized-TOR) <br>
 
 
 ## 📜 Certifications
