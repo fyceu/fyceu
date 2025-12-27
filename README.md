@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Fasi! 
 
 👨‍💻 Help Desk Specialist documenting my journey in Cybersecurity <br>
-🏫 Studied Cybersecurity with a minor in Computer Science <br>
+🏫 Graduated with a Bachelors of Sceince in Cybersecurity with a minor in Computer Science <br>
 📓 Lifetime learner and tech enthusiast <br>
 
 ## 🖥️  Cybersecurity Projects
