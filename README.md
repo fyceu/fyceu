@@ -6,7 +6,7 @@
 
 ## 🖥️  Cybersecurity Projects
 
-🚨 **Security Operations & Incident Response**: <br>
+🚨 **Security Operations, Digital Forensics & Incident Response (DFIR)**: <br>
  ↳ [Linux Privilege Escalation & Data Exfiltration](https://github.com/fyceu/Linux-Privilege-Escalation) <br>
  ↳ [SOC Automation Lab](https://github.com/fyceu/SOC-Automation-Lab) <br>
  ↳ [Phishing Analysis: Parrot Post](https://github.com/fyceu/ParrotPost-Phishing-Analysis) <br>
@@ -29,7 +29,7 @@
 - [X] CompTIA CySA+ <br>
 <br>
 
-## 🎯 Certification Hitlist:
+Certification Hitlist:
 - [ ] Splunk Core Certified Advanced Power User <br>
 - [ ] AZ-900 <br>
 - [ ] CCNA <br>
