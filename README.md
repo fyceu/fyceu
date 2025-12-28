@@ -10,6 +10,8 @@
  ↳ [Linux Privilege Escalation & Data Exfiltration](https://github.com/fyceu/Linux-Privilege-Escalation) <br>
  ↳ [SOC Automation Lab](https://github.com/fyceu/SOC-Automation-Lab) <br>
  ↳ [Phishing Analysis: Parrot Post](https://github.com/fyceu/ParrotPost-Phishing-Analysis) <br>
+ ↳ Prefetch Analysis (wip) <br>
+ ↳ AutoIT Script Execution (wip) <br>
 
 🛠️ **Vulnerability Management**: <br>
  ↳ [Vulnerability Management Program Implementation](https://github.com/fyceu/Vulnerability-Management-Program-Implementation) <br>
