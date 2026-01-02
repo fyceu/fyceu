@@ -29,14 +29,6 @@
 - [X] CompTIA Security+ <br>
 - [X] Security Blue Team Level 1 <br>
 - [X] CompTIA CySA+ <br>
-<br>
-
-Certification Hitlist:
-- [ ] Splunk Core Certified Advanced Power User <br>
-- [ ] AZ-900 <br>
-- [ ] CCNA <br>
-- [ ] CompTIA SecurityX (CASP+) <br>
-- [ ] CISSP <br>
 
 ## 📬 Let's Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/fasisika/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:contact@fasisika.com) 
