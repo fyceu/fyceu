@@ -15,6 +15,7 @@
 
 🛠️ **Vulnerability Management**: <br>
  ↳ [Vulnerability Management Program Implementation](https://github.com/fyceu/Vulnerability-Management-Program-Implementation) <br>
+ ↳ DISA STIG Implementation (wip) <br>
 
 🕵️‍♂️ **Threat Hunting**: <br>
  ↳ [Threat Hunting: Unauthorized TOR](https://github.com/fyceu/Threat-Hunting-Unauthorized-TOR) <br>
