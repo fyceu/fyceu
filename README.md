@@ -18,7 +18,8 @@
  ↳ [DISA STIG Implementation](https://github.com/fyceu/DISA-STIG-Implementation) <br>
 
 🕵️‍♂️ **Threat Hunting**: <br>
- ↳ [Threat Hunting: Unauthorized TOR](https://github.com/fyceu/Threat-Hunting-Unauthorized-TOR) <br>
+ ↳ [Threat Hunt: Unauthorized TOR](https://github.com/fyceu/Threat-Hunting-Unauthorized-TOR) <br>
+ ↳ Threat Hunt: Dead in the Water (wip)
 
 
 ## 📜 Certifications
