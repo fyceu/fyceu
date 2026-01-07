@@ -7,11 +7,9 @@
 ## 🖥️  Cybersecurity Projects
 
 🚨 **Security Operations, Digital Forensics & Incident Response (DFIR)**: <br>
- ↳ [Linux Privilege Escalation & Data Exfiltration](https://github.com/fyceu/Linux-Privilege-Escalation) <br>
  ↳ [SOC Automation Lab](https://github.com/fyceu/SOC-Automation-Lab) <br>
  ↳ [Phishing Analysis: Parrot Post](https://github.com/fyceu/ParrotPost-Phishing-Analysis) <br>
  ↳ [Prefetch Analysis](https://github.com/fyceu/Prefetch-Analysis) <br>
- ↳ AutoIT Script Execution (wip) <br>
 
 🛠️ **Vulnerability Management**: <br>
  ↳ [Vulnerability Management Program Implementation](https://github.com/fyceu/Vulnerability-Management-Program-Implementation) <br>
@@ -19,6 +17,7 @@
 
 🕵️‍♂️ **Threat Hunting**: <br>
  ↳ [Threat Hunt: Unauthorized TOR](https://github.com/fyceu/Threat-Hunting-Unauthorized-TOR) <br>
+ ↳ [Linux Privilege Escalation & Data Exfiltration](https://github.com/fyceu/Linux-Privilege-Escalation) <br>
  ↳ Threat Hunt: Dead in the Water (wip)
 
 
