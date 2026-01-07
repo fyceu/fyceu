@@ -18,7 +18,7 @@
 🕵️‍♂️ **Threat Hunting**: <br>
  ↳ [Threat Hunt: Unauthorized TOR](https://github.com/fyceu/Threat-Hunting-Unauthorized-TOR) <br>
  ↳ [Linux Privilege Escalation & Data Exfiltration](https://github.com/fyceu/Linux-Privilege-Escalation) <br>
- ↳ Threat Hunt: Port of Entry
+ ↳ Threat Hunt: Port of Entry (wip) <br>
  ↳ Threat Hunt: Dead in the Water (wip)
 
 
