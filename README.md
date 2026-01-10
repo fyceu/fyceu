@@ -19,6 +19,7 @@
  ↳ [Threat Hunt: Unauthorized TOR](https://github.com/fyceu/Threat-Hunting-Unauthorized-TOR) <br>
  ↳ [Threat Hunt: Linux Privilege Escalation & Data Exfiltration](https://github.com/fyceu/Linux-Privilege-Escalation) <br>
  ↳ [Threat Hunt: Port of Entry](https://github.com/fyceu/Port-of-Entry) <br>
+ ↳ Threat Hunt: Cargo Hold (wip) <br>
  ↳ Threat Hunt: Dead in the Water (wip)
 
 
