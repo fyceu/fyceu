@@ -23,7 +23,8 @@
  ↳ Threat Hunt: Bridge Takeover (wip) <br>
  ↳ Threat Hunt: Dead in the Water (wip) <br>
  ↳ Threat Hunt: The Broker (wip) <br> 
- ↳ Threat Hunt: The Buyer (wip)
+ ↳ Threat Hunt: The Buyer (wip) <br>
+ ↳ Threat Hunt: Scattered Invoice (wip)
  
 
 
