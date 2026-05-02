@@ -29,9 +29,10 @@
 
 
 ## 📜 Certifications
-<img width="125" height="125" alt="security+" src="https://github.com/user-attachments/assets/991dbd0b-8e03-4629-9427-2f5055c32ce4" />
-<img width="125" height="125" alt="security+" src="https://github.com/user-attachments/assets/a80893d6-3d21-4b8f-8813-19e9e5ca7895" />
-<img width="125" height="125" alt="security+" src="https://github.com/user-attachments/assets/82ef4584-99cd-48f3-b63b-ad5ea60cab92" />
+<img align="left" width="125" height="125" src="https://github.com/user-attachments/assets/991dbd0b-8e03-4629-9427-2f5055c32ce4" />
+<img align="left" width="125" height="125" src="https://github.com/user-attachments/assets/a80893d6-3d21-4b8f-8813-19e9e5ca7895" />
+<img align="left" width="125" height="125" src="https://github.com/user-attachments/assets/82ef4584-99cd-48f3-b63b-ad5ea60cab92" />
+<br clear="left">
 <br>
 
 - [X] CompTIA Security+ <br>
