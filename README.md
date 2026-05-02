@@ -20,7 +20,7 @@
  ↳ [Threat Hunt: Linux Privilege Escalation & Data Exfiltration](https://github.com/fyceu/Linux-Privilege-Escalation) <br>
  ↳ [Threat Hunt: Port of Entry](https://github.com/fyceu/Port-of-Entry) <br>
  ↳ [Threat Hunt: Cargo Hold](https://github.com/fyceu/Cargo-Hold) <br>
- ↳ [Threat Hunt: Bridge Takeover](Bridge-Takeover) <br>
+ ↳ [Threat Hunt: Bridge Takeover](https://github.com/fyceu/Bridge-Takeover) <br>
  ↳ Threat Hunt: Dead in the Water (wip) <br>
  ↳ Threat Hunt: The Broker (wip) <br> 
  ↳ Threat Hunt: The Buyer (wip) <br>
